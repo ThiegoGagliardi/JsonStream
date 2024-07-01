@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "PR4mVjzTnyBtGw4JIiOHpClFYss3dD4oc1T0Bd87XrynyJ6GG5pcFjyhGWv9kwgugC+mQ+ZtBa65v7NsaZRRTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Thieg\\projeto\\.net\\JsonStream\\JsonStream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Thieg\\.nuget\\packages\\microsoft.sharepoint.client\\14.0.4762.1000\\microsoft.sharepoint.client.14.0.4762.1000.nupkg.sha512",
+    "C:\\Users\\Thieg\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Microsoft.SharePoint.Client 14.0.4762.1000' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net6.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Microsoft.SharePoint.Client",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
